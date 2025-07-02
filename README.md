@@ -106,6 +106,4 @@ Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais de
 
 ---
 
-## 📧 Contato
 
-Richadson Junior — richadsonjr@hotmail.com
